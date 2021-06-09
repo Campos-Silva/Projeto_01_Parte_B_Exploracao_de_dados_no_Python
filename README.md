@@ -1,4 +1,4 @@
-![Alt ou título da imagem](https://github.com/Campos-Silva/Projeto_02_Exploracao_de_dados_no_Python/blob/main/graficos_gerados.jpg)
+![Alt ou título da imagem](https://github.com/Campos-Silva/Projeto_02_Exploracao_de_dados_no_Python/blob/main/graficos_projeto_02.jpg)
 
 ________________________________________________________________________________________________________________________________________________
 
