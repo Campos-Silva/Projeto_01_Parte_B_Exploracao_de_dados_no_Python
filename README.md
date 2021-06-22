@@ -16,19 +16,13 @@ Objetivos desse projeto:
 
 ## Detalhamento do Dataset estudado
 
-O dataset que irei trabalhar nesse conjunto de projetos é o oriundo do seguinte site do Kaggle: https://www.kaggle.com/nehalbirla/vehicle-dataset-from-cardekho
+- OBSERVAÇÃO: Esse projeto é uma continuação direta do "Projeto-01-Importacao-e-limpeza-de-dados-no-Python" que consta no meu repositório do Github ( - clique [aqui](https://github.com/Campos-Silva/Projeto-01-Importacao-e-limpeza-de-dados-no-Python) para acessar a Parte A).
 
-Esse dataset possui dados de carros alugados o qual permite fazer diversas análises em Data Science, inclusive criar modelos preditivos de machine learning, através de regressão linear.
+- Portanto, irei lidar com os dados já previamente formatados oriundo do projeto anterior.
 
-## Pergunta central do dataset:
+- Conforme mencionado previamente, esse dataset possui dados de carros usados, o qual nos permite fazer diversas análises em Data Science, inclusive criar modelos preditivos de machine learning, através de regressão linear.
 
-- O valor de preço de venda dos carros usados está relacionada as suas características?
-
-## Hipótese do dataset:
-
-- O valor de preço de venda dos carros usados é influenciado por suas características. 
-
-## Arquivos do "Projeto 02 - Exploração de dados no Python"
+## Arquivos da Parte B
 
 - Clique [aqui](https://github.com/Campos-Silva/Projeto_02_Exploracao_de_dados_no_Python/blob/main/Projeto_02_exploracao_de_dados_no_Python.ipynb) para visualizar o script do projeto.
 
