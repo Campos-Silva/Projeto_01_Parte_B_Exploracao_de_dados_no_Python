@@ -16,7 +16,7 @@ Objetivos desse projeto:
 
 ## Detalhamento do Dataset estudado
 
-- OBSERVAÇÃO: Esse projeto é uma continuação direta do "Projeto 01 - Parte A: Importacao e limpeza de dados no Python" que consta no meu repositório do Github ( - clique [aqui](https://github.com/Campos-Silva/Projeto-01-Importacao-e-limpeza-de-dados-no-Python) para acessar a Parte A).
+- OBSERVAÇÃO: Esse projeto é uma continuação direta do "Projeto 01 - Parte A: Importacao e limpeza de dados no Python" que consta no meu repositório do Github ( - clique [aqui](https://github.com/Campos-Silva/Projeto-01-Importacao-e-limpeza-de-dados-no-Python) para acessar a Parte e a próxima partre C).
 
 - Portanto, irei lidar com os dados já previamente formatados oriundo do projeto anterior.
 
