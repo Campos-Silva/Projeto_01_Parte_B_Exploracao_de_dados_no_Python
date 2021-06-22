@@ -34,11 +34,11 @@ Objetivos desse projeto:
 
 - numpy
 
-- missingno
+- seaborn
 
 - matplotlib
 
-- scipy.stats
+- scipy
 
 ## Autor:
 
