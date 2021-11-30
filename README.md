@@ -8,7 +8,7 @@ ________________________________________________________________________________
 ________________________________________________________________________________________________________________________________________________
 
 
-## Objetivos da Parte B:
+## Objetivos:
 
 - demonstrar como é realizada a exploração de dados no Python.
 
@@ -22,7 +22,7 @@ ________________________________________________________________________________
 
 ![Alt ou título da imagem](https://github.com/Campos-Silva/Projeto_01_Parte_A_Importacao-e-limpeza-de-dados-no-Python/blob/main/icones_v_1.png)
 
-- Clique [aqui](https://github.com/Campos-Silva/Projeto_02_Exploracao_de_dados_no_Python/blob/main/Projeto_02_exploracao_de_dados_no_Python.ipynb) para visualizar o script dda Parte B.
+- Clique [aqui](https://github.com/Campos-Silva/Projeto_02_Exploracao_de_dados_no_Python/blob/main/Projeto_02_exploracao_de_dados_no_Python.ipynb) para visualizar o script da Parte B.
 
 - Clique [aqui](https://github.com/Campos-Silva/Projeto_02_Exploracao_de_dados_no_Python/blob/main/carros_formatado.csv) para visualizar o Dataset.
 ## Autor:
