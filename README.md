@@ -8,9 +8,7 @@ ________________________________________________________________________________
 ________________________________________________________________________________________________________________________________________________
 
 
-## Objetivos do projeto:
-
-Objetivos desse projeto:
+## Objetivos da Parte B:
 
 - demonstrar como é realizada a exploração de dados no Python.
 
@@ -20,26 +18,13 @@ Objetivos desse projeto:
 
 - Portanto, irei lidar com os dados já previamente formatados oriundo do projeto anterior.
 
-- Conforme mencionado previamente, esse dataset possui dados de carros usados, o qual nos permite fazer diversas análises em Data Science, inclusive criar modelos preditivos de machine learning, através de regressão linear.
+## Arquivos:
 
-## Arquivos da Parte B
+![Alt ou título da imagem](https://github.com/Campos-Silva/Projeto_01_Parte_A_Importacao-e-limpeza-de-dados-no-Python/blob/main/icones_v_1.png)
 
-- Clique [aqui](https://github.com/Campos-Silva/Projeto_02_Exploracao_de_dados_no_Python/blob/main/Projeto_02_exploracao_de_dados_no_Python.ipynb) para visualizar o script do projeto.
+- Clique [aqui](https://github.com/Campos-Silva/Projeto_02_Exploracao_de_dados_no_Python/blob/main/Projeto_02_exploracao_de_dados_no_Python.ipynb) para visualizar o script dda Parte B.
 
 - Clique [aqui](https://github.com/Campos-Silva/Projeto_02_Exploracao_de_dados_no_Python/blob/main/carros_formatado.csv) para visualizar o Dataset.
-
-## Bibliotecas utilizadas nesse projeto:
-
-- pandas
-
-- numpy
-
-- seaborn
-
-- matplotlib
-
-- scipy
-
 ## Autor:
 
 <img  src="https://raw.githubusercontent.com/Campos-Silva/Campos-Silva/main/perfil_lucas_andrei_campos_silva.png" width="80" alt="cognitiveclass.ai logo" align="left" /> 
