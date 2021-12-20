@@ -1,4 +1,4 @@
-![Alt ou título da imagem](https://github.com/Campos-Silva/Projeto_02_Exploracao_de_dados_no_Python/blob/main/graficos_projeto_02.jpg)
+![Alt ou título da imagem](https://raw.githubusercontent.com/Campos-Silva/Projeto_01_Parte_B_Exploracao_de_dados_no_Python/main/exploracao_de_dados_v_2.png)
 
 ________________________________________________________________________________________________________________________________________________
 
@@ -10,13 +10,22 @@ ________________________________________________________________________________
 
 ## Objetivos:
 
-- demonstrar como é realizada a exploração de dados no Python.
+- Demonstrar como é realizada a exploração de dados através da linguagem Python.
 
-## Detalhamento do Dataset estudado
+## Problema de negócio: Venda de Carros Usados
 
-- OBSERVAÇÃO: Esse projeto é uma continuação direta do "Projeto 01 - Parte A: Importacao e limpeza de dados no Python" que consta no meu repositório do Github ( - clique [aqui](https://github.com/Campos-Silva/Projeto-01-Importacao-e-limpeza-de-dados-no-Python) para acessar a "Parte A" ; Clique [aqui](https://github.com/Campos-Silva/Projeto_01_Parte_C_Modelos_de_Machine_Learning_no_Python) para acessar a "Parte C").
+![Alt ou título da imagem](https://raw.githubusercontent.com/Campos-Silva/Projeto_1_Precificacao_de_Veiculos_Usados/main/comprar_carro_duvida_c.png)
 
-- Portanto, irei lidar com os dados já previamente formatados oriundo do projeto anterior.
+## Detalhamento do Dataset
+
+- **OBSERVAÇÃO:** Essa parte é uma continuação direta do "Projeto 1: Parte A - "Importação e limpeza de dados no Python" que consta no meu repositório do Github [("Parte A")](https://github.com/Campos-Silva/Projeto-01-Importacao-e-limpeza-de-dados-no-Python).
+
+- Portanto, irei lidar com dados já limpos e pré-processados oriundos da parte anterior do projeto.
+
+
+- O conjunto de dados para essa parte B encontra-se na pasta raiz do repósitorio [(Dataset)](https://github.com/Campos-Silva/Projeto_01_Parte_B_Exploracao_de_dados_no_Python/blob/main/carros_formatado.csv).
+
+- O dataset possui dados de carros usados, o qual nos permite fazer diversas análises em Data Science, inclusive **criar modelos preditivos** para a precificação de veículos usados baseados em suas caracteristicas, o qual será alvo da próxima parte desse projeto [("Parte C")](https://github.com/Campos-Silva/Projeto_01_Parte_C_Modelos_de_Machine_Learning_no_Python).
 
 ## Arquivos:
 
