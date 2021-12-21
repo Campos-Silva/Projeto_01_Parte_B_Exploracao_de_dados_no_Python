@@ -8,9 +8,27 @@ ________________________________________________________________________________
 ________________________________________________________________________________________________________________________________________________
 
 
-## Objetivos:
+# Exploração de dados
 
-- Demonstrar como é realizada a exploração de dados através da linguagem Python.
+ <left>
+<img src="https://raw.githubusercontent.com/Campos-Silva/Projeto_01_Parte_B_Exploracao_de_dados_no_Python/main/exploracao_5.jpg" width="500" />
+</left>
+
+ A **exploração de dados** é uma das etapas mais importantes em trabalhos de Data Science/ Análise Dados / Business intelligence (BI).
+
+
+ 
+
+ É nela que começamos a entender o que temos de “valioso” no nosso conjunto de dados. Nessa etapa visualizamos como nossos dados estão distribuídos, e verificamos se há possíveis tendências de relação entre variáveis. Para isso, estatísticas descritivas como média, mediana e tantas outras métricas descritivas ajudam a “lapidar” o diamante bruto de nosso conjunto de dados. Além disso, por meio de gráficos de barras, boxplot, dispersão e muitas outras técnicas de visualização muito dessa riqueza aparece.
+
+
+
+E é na exploração dos dados que começamos a formular/responder hipóteses e “insights” que surgem dessa exploração.
+
+
+## Objetivos da Parte B do Projeto 1:
+
+-  Demonstrar de forma prática como realizamos a etapa de **"Exploração de Dados"** por meio da linguagem Python. Para isso utilizei um conjunto de dados do setor de venda de veículos usados.
 
 ## Problema de negócio: Venda de Carros Usados
 
